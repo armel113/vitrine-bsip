@@ -11,6 +11,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 
 body {
   margin: 0;
@@ -34,8 +35,8 @@ body {
 }
 
 .logo {
-  width: 64px;
-  height: 64px;
+  width: 56px;
+  height: 56px;
   border-radius: 12px;
   object-fit: cover;
   border: 2px solid var(--or);
@@ -257,6 +258,8 @@ body {
 .fiche-bouton:hover { filter: brightness(1.05); }
 
 @media (max-width: 480px) {
+  .logo { width: 44px; height: 44px; border-radius: 10px; }
   .entete h1 { font-size: 1.1rem; }
+  .devise { font-size: 0.78rem; }
   .grille-produits { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 14px; }
 }
