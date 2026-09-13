@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vitrine BSIP — Biagné Service Informatique</title>
+<meta name="description" content="Catalogue de matériel informatique, vidéosurveillance et réseau — Biagné Service Informatique (BSIP), Soubré, Côte d'Ivoire.">
+<link rel="icon" href="assets/bsip-logo.jpg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="entete">
+  <div class="entete-contenu">
+    <img src="assets/bsip-logo.jpg" alt="Logo BSIP" class="logo">
+    <div class="entete-texte">
+      <h1>BSIP — Biagné Service Informatique</h1>
+      <p class="devise">Votre informatique, notre priorité</p>
+    </div>
+  </div>
+</header>
+
+<section class="intro">
+  <p>
+    Voici une sélection de notre matériel disponible : vidéosurveillance, réseau, informatique.
+    Les prix ne sont pas affichés ici — choisissez un article et contactez-nous directement sur
+    WhatsApp, nous vous répondons avec le prix et la disponibilité.
+  </p>
+</section>
+
+<nav class="filtres" id="filtres">
+  <button class="filtre actif" data-categorie="TOUT">Tout</button>
+</nav>
+
+<main id="grille-produits" class="grille-produits">
+  <p class="chargement">Chargement du catalogue…</p>
+</main>
+
+<footer class="pied">
+  <p>© <span id="annee"></span> BSIP — Biagné Service Informatique — Soubré, Côte d'Ivoire</p>
+  <p>
+    <a href="https://wa.me/2250716300000" target="_blank" rel="noopener">WhatsApp : 07 16 30 00 00</a>
+    &nbsp;·&nbsp;
+    <a href="https://wa.me/2250708480359" target="_blank" rel="noopener">07 08 48 03 59</a>
+    &nbsp;·&nbsp;
+    <a href="https://bsip.biagneinformatique.ci" target="_blank" rel="noopener">Nos services</a>
+  </p>
+</footer>
+
+<div id="fiche-fond" class="fiche-fond" hidden>
+  <div id="fiche" class="fiche" role="dialog" aria-modal="true"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
