@@ -1,5 +1,5 @@
 {
-  "genereLe": "2026-09-13T18:31:57.522Z",
+  "genereLe": "2026-09-13T18:35:04.955Z",
   "produits": [
     {
       "id": "cmtzyuf4j0005knaz2t9ukbou",
@@ -11,6 +11,18 @@
       "categorie": "HIKVISION",
       "photos": [
         "photos/cmtzyuf4j0005knaz2t9ukbou/49c0a4d0-5def-4714-9772-ee17b2ad6178.jpg"
+      ]
+    },
+    {
+      "id": "cmtzzkkyh0006knaz61dry42s",
+      "nom": "Xiaomi Mi Box S 4K Ultra HD",
+      "reference": "Mi Box S",
+      "description": "Boîtier multimédia 4K Ultra HD sous Android TV avec assistant vocal Google et Chromecast intégré.",
+      "caracteristiques": "Résolution de sortie : 4K Ultra HD\nSystème d'exploitation : Android TV\nChromecast intégré pour le partage d'écran\nAssistant Google avec recherche vocale via la télécommande\nTélécommande Bluetooth avec accès direct aux applications\nCâble HDMI inclus dans le coffret",
+      "marque": "Xiaomi",
+      "categorie": "ACCESSOIRE",
+      "photos": [
+        "photos/cmtzzkkyh0006knaz61dry42s/3db431ba-12a5-4c7f-8447-658fd62d4da7.jpg"
       ]
     }
   ]
