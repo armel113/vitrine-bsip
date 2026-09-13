@@ -28,9 +28,12 @@
   </p>
 </section>
 
-<nav class="filtres" id="filtres">
-  <button class="filtre actif" data-categorie="TOUT">Tout</button>
-</nav>
+<div class="recherche-zone">
+  <input type="search" id="recherche" class="recherche" placeholder="🔎 Rechercher un produit (nom, marque…)" autocomplete="off">
+</div>
+
+<nav class="categories" id="categories"></nav>
+<nav class="sous-categories" id="sous-categories" hidden></nav>
 
 <main id="grille-produits" class="grille-produits">
   <p class="chargement">Chargement du catalogue…</p>
