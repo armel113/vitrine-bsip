@@ -1,4 +1,17 @@
 {
-  "genereLe": null,
-  "produits": []
+  "genereLe": "2026-09-13T17:52:44.776Z",
+  "produits": [
+    {
+      "id": "cmtzyuf4j0005knaz2t9ukbou",
+      "nom": "Caméra IP Bullet Hikvision LPR 2MP",
+      "reference": "iDS-2CD7A26G0/P-IZHSY(2.8-12mm)",
+      "description": "Caméra tube réseau de 2 MP performante conçue pour la capture et reconnaissance de plaques d'immatriculation (LPR).",
+      "caracteristiques": "Résolution : 2 Mégapixels (2MP)\nObjectif varifocal motorisé : 2,8 à 12 mm\nFonction LPR (Reconnaissance de plaques d'immatriculation)\nForme : Bullet / Tube\nUsage extérieur résistant",
+      "marque": "Hikvision",
+      "categorie": "HIKVISION",
+      "photos": [
+        "photos/cmtzyuf4j0005knaz2t9ukbou/49c0a4d0-5def-4714-9772-ee17b2ad6178.jpg"
+      ]
+    }
+  ]
 }
