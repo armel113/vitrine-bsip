@@ -1,5 +1,5 @@
 {
-  "genereLe": "2026-09-13T18:49:00.018Z",
+  "genereLe": "2026-10-09T12:32:12.518Z",
   "produits": [
     {
       "id": "cmtzyuf4j0005knaz2t9ukbou",
@@ -14,6 +14,46 @@
       ]
     },
     {
+      "id": "cmtzyrtu20004knazak6cvcx3",
+      "nom": "Mini caméra filaire Pinhole 2.8mm",
+      "reference": null,
+      "description": "Mini caméra de vidéosurveillance filaire ultra-compacte pour une surveillance discrète.",
+      "caracteristiques": "Objectif fixe 2.8 mm\nCapteur 1/2.7\"\nConnecteurs vidéo RCA (jaune) et adaptateur BNC\nConnecteur audio RCA (blanc)\nPrise d'alimentation DC 12V (rouge)",
+      "marque": "Autre",
+      "categorie": "CAMERA",
+      "photos": [
+        "photos/cmtzyrtu20004knazak6cvcx3/4646b62c-8c05-490b-99a9-8e78e33eb1f4.webp"
+      ]
+    },
+    {
+      "id": "cmtzzrb29000eknaz1ynt3j6q",
+      "nom": "Google Pixel 9 Pro XL 512 Go",
+      "reference": "Pixel 9 Pro XL",
+      "description": "Smartphone haut de gamme performant avec un système photo avancé et un espace de stockage de 512 Go.",
+      "caracteristiques": "Capacité de stockage : 512 Go\nSystème d'exploitation : Android\nÉcran OLED bord à bord avec poinçon central\nModule photo arrière à triple capteur\nDesign premium finition grise/noire",
+      "marque": "Google",
+      "categorie": "PC",
+      "photos": [
+        "photos/cmtzzrb29000eknaz1ynt3j6q/ed741f47-966d-431f-a846-2ec0502ae006.jpg"
+      ]
+    },
+    {
+      "id": "cmtzzmbfa0007knazzbrwclkd",
+      "nom": "Barre de son Yamaha YAS-207 avec caisson de basses",
+      "reference": "YAS-207",
+      "description": "Ensemble barre de son et caisson de basses sans fil pour une expérience sonore puissante et immersive.",
+      "caracteristiques": "Barre de son ultra-fine avec caisson de basses sans fil\nTélécommande d'origine et manuel d'utilisation inclus\nFinition moderne en tissu noir\nCommandes tactiles/boutons intégrés sur le dessus\nCâbles d'alimentation inclus",
+      "marque": "Yamaha",
+      "categorie": "ACCESSOIRE",
+      "photos": [
+        "photos/cmtzzmbfa0007knazzbrwclkd/b8c35580-c66d-40cd-8cc9-07d10dcb472b.jpg",
+        "photos/cmtzzmbfa0007knazzbrwclkd/59106126-2b70-429e-b4b7-488763a3ff4f.jpg",
+        "photos/cmtzzmbfa0007knazzbrwclkd/ee2b402e-865b-478d-b7bd-140b5f772334.webp",
+        "photos/cmtzzmbfa0007knazzbrwclkd/486841e9-5b62-406b-8858-b182dd4bcfbc.webp",
+        "photos/cmtzzmbfa0007knazzbrwclkd/12c38eac-f487-46f9-950e-c72fc898468a.webp"
+      ]
+    },
+    {
       "id": "cmtzzkkyh0006knaz61dry42s",
       "nom": "Xiaomi Mi Box S 4K Ultra HD",
       "reference": "Mi Box S",
@@ -23,6 +63,33 @@
       "categorie": "ACCESSOIRE",
       "photos": [
         "photos/cmtzzkkyh0006knaz61dry42s/3db431ba-12a5-4c7f-8447-658fd62d4da7.jpg"
+      ]
+    },
+    {
+      "id": "cmu0cp0h80000cm2146on3pt7",
+      "nom": "Lenovo ThinkPad X1 Yoga Gen 8",
+      "reference": "X1 Yoga G8",
+      "description": "PC portable professionnel convertible 2-en-1 hautes performances de 14 pouces.",
+      "caracteristiques": "Processeur (marque/modèle/génération) : Intel Core i7-1365U (13e génération)\nRAM : 32 Go\nStockage : 512 Go SSD\nÉcran (taille/résolution) : 14 pouces WUXGA IPS Tactile\nCarte graphique : à préciser\nAutonomie batterie : à préciser\nPoids : à préciser\nClavier rétroéclairé (oui/non) : à préciser\nÉtat : à préciser",
+      "marque": "Lenovo",
+      "categorie": "PC_PORTABLE",
+      "photos": [
+        "photos/cmu0cp0h80000cm2146on3pt7/5cdf78b9-e0a5-4b76-be93-2494fac4e3ce.jpg",
+        "photos/cmu0cp0h80000cm2146on3pt7/73e7be0d-91af-4cda-be91-14f65e482019.png",
+        "photos/cmu0cp0h80000cm2146on3pt7/5c5705b2-c5ce-4c8c-a3f8-89196b839997.png",
+        "photos/cmu0cp0h80000cm2146on3pt7/47c72f37-3d39-4734-bee7-5ebfdcfdf5b9.png"
+      ]
+    },
+    {
+      "id": "cmtzwlm820000hnpdddus61aj",
+      "nom": "PC Portable Dell XPS 13 2-en-1",
+      "reference": null,
+      "description": "Ordinateur portable tactile et convertible haut de gamme, alliant performance, design ultra-fin et polyvalence.",
+      "caracteristiques": "Processeur Intel Core i7\nÉcran tactile bord à bord InfinityEdge avec charnière 360°\nRepose-poignets en fibre de carbone noir\nLecteur d'empreinte digitale intégré\nChâssis ultra-compact et léger",
+      "marque": "Dell",
+      "categorie": "PC_PORTABLE",
+      "photos": [
+        "photos/cmtzwlm820000hnpdddus61aj/53148289-b837-4dbf-9f9b-edc9816ac9bc.jpg"
       ]
     }
   ]

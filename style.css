@@ -16,8 +16,20 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Roboto, -apple-system, sans-serif;
-  background: var(--fond);
+  background-color: var(--fond);
+  background-image:
+    linear-gradient(rgba(15, 46, 36, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 46, 36, 0.04) 1px, transparent 1px),
+    radial-gradient(circle, rgba(201, 162, 74, 0.3) 1.7px, transparent 2.2px);
+  background-size: 42px 42px, 42px 42px, 126px 126px;
+  background-position: 0 0, 0 0, 21px 21px;
+  background-attachment: fixed;
+  animation: derive-grille 28s linear infinite;
   color: var(--texte);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body { animation: none; }
 }
 
 .entete {
